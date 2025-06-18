@@ -49,6 +49,3 @@ Memiliki hak akses penuh terhadap sistem. Fitur yang dapat diakses oleh admin me
 - Melihat dan menyusun laporan penjualan
 
 ---
-
-## 📁 Struktur Direktori (Opsional)
-
