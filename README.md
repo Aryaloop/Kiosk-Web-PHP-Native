@@ -42,7 +42,7 @@ Bertugas menangani proses pemesanan yang masuk. Fitur utama untuk karyawan antar
 
 ### 3. Admin
 Memiliki hak akses penuh terhadap sistem. Fitur yang dapat diakses oleh admin meliputi:
-=
+
 - Pengaturan harga dan daftar menu
 - Pencatatan arus kas harian
 - Pembuatan akun karyawan
